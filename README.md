@@ -13,11 +13,15 @@ To develop a secure, locally hosted AI virtual assistant capable of processing n
 - Self-hosted Application Development
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Whisper AI – For offline speech-to-text (voice command functionality).
+- Llama 2 – As the core language model for natural language processing.
+- Python – For scripting, integrating components, and building the assistant logic.
+- Linux OS / Terminal – For development and deployment of the self-hosted assistant.
+- Encryption Libraries (OpenSSL) – For securing stored data.
+- Local Storage Solutions (SQLite, JSON files)- For managing data securely without external transmission.
+- Speech Recognition & Audio Processing Libraries (ffmpeg) – To handle microphone input and audio conversion.
+- Cloudflare – For securing local network access, managing DNS, and adding an extra layer of protection for any local web interface or API endpoints.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
