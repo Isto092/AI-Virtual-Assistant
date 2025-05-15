@@ -25,4 +25,21 @@ To develop a secure, locally hosted AI virtual assistant capable of processing n
 
 ## Steps
 
+Environment Setup:
+- Installed necessary software and tools, including Python, Whisper AI and Llama 2 to create a suitable development environment.
+ 
+Language Model Deployment:
+- Deployed the Llama 2 language model locally and optimize performance for efficient natural language processing.
+
+Speech-to-Text Integration: 
+- Configured Whisper AI for offline speech recognition, enabling the assistant to process voice commands without relying on cloud services. 
+
+Security Implementation: 
+- Implemented encryption protocols and local data storage solutions to ensure user data privacy and prevent external data transmission. 
+
+Cloudflare Configuration: 
+- Set up Cloudflare services to manage DNS, enhance network security, and provide secure access to any local web interfaces or APIs associated with the assistant. 
+
+System Testing and Validation:
+- Conducted comprehensive testing to validate the assistant's functionality, ensuring accurate speech recognition, appropriate responses, and robust security measures. 
 
