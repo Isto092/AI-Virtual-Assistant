@@ -5,13 +5,12 @@
 To develop a secure, locally hosted AI virtual assistant capable of processing natural language queries, automating tasks, and delivering intelligent responses without internet dependency, leveraging offline speech recognition, optimized local inference, and robust data privacy measures.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- Natural Language Processing (NLP)
+- Offline Speech Recognition
+- AI Model Optimization & Deployment
+- System Security & Data Privacy
+- Self-hosted Application Development
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
