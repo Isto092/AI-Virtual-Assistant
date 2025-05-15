@@ -24,10 +24,5 @@ To develop a secure, locally hosted AI virtual assistant capable of processing n
 - Cloudflare – For securing local network access, managing DNS, and adding an extra layer of protection for any local web interface or API endpoints.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
 
-Example below.
-
-*Ref 1: Network Diagram*
