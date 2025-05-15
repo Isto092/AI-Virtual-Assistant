@@ -1,4 +1,4 @@
-# AI-Virtual-Assistant
+# AI Virtual Assistant
 
 ## Objective
 [Brief Objective - Remove this afterwards]
