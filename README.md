@@ -20,7 +20,7 @@ To develop a secure, locally hosted AI virtual assistant capable of processing n
 - Linux OS / Terminal – For development and deployment of the self-hosted assistant.
 - Encryption Libraries (OpenSSL) – For securing stored data.
 - Local Storage Solutions (SQLite, JSON files) - For managing data securely without external transmission.
-- Speech Recognition & Audio Processing Libraries (ffmpeg) – To handle microphone input and audio conversion.
+- Speech Recognition & Audio Processing Libraries (ffmpeg) - To handle microphone input and audio conversion.
 - Cloudflare – For securing local network access, managing DNS, and adding an extra layer of protection for any local web interface or API endpoints.
 
 ## Steps
